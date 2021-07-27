@@ -1,0 +1,16 @@
+/* miniprogram/pages/search/search.wxss */
+
+.header{
+  position: absolute;
+  height:100rpx;
+  width: 100%;
+  background-color:	#bfbfbf;
+}
+
+.right{
+  position: absolute;
+  margin-left: 40rpx;
+  margin-right:40rpx;
+  top: 15rpx;
+}
+

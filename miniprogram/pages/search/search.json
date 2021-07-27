@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "info-search":"/components/search/search"
+  },
+  "navigationBarTitleText": "搜索页面",
+  "navigationStyle":"default"
+}

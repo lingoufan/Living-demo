@@ -1,0 +1,6 @@
+<view class="container">
+  <!-- 输入框 -->
+    <input class="input" placeholder="{{placeholder}}" value='{{inputValue}}' bindinput="onInput" bindfocus="onFocus"></input>
+    <!-- 搜索按钮 -->
+    <button class="search-btn" bind:tap="onSearch">搜索</button>
+</view>

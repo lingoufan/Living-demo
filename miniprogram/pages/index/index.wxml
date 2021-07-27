@@ -1,0 +1,17 @@
+
+<view class="header">
+  <!-- 添加文本按钮 -->
+  <view bindtap="onAdd">
+    <!-- 添加按钮图标 -->
+    <i class="iconfont icon-Add"></i>
+  </view>
+
+ <!--搜索图标 -->
+  <view  bindtap="onClick" >
+    <i class="iconfont icon-chazhao"></i>
+  </view>
+</view>
+<view class="list-container">
+  <block>
+  </block>
+</view>

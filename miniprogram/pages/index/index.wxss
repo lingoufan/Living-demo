@@ -1,0 +1,21 @@
+
+.header{
+  position: absolute;
+  height:100rpx;
+  width: 100%;
+  background-color:	#bfbfbf;
+}
+
+.icon-Add{
+  position: absolute;
+  top: 15rpx;
+  left: 30rpx;
+  font-size: 60rpx;
+}
+
+.icon-chazhao{
+  position: absolute;
+  top: 15rpx;
+  left: 650rpx;
+  font-size: 60rpx;
+}
