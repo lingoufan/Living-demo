@@ -25,6 +25,6 @@
 </view>
 
 <view class="footer" style="bottom:{{footerBottom}}px">
-  <text class="words-num">{{wordsNum}}</text>
+  <!-- <text class="words-num">{{wordsNum}}</text> -->
   <button class="send-btn" bind:tap="submit">提交</button>
 </view>
